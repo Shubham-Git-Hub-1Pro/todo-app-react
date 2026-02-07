@@ -60,3 +60,13 @@ This project is created for **educational and portfolio purposes only**.
 Unauthorized copying, modification, distribution, or use of this project without explicit permission from the author is strictly prohibited.
 
 📄 License: See the full license here → [LICENSE](./LICENSE)
+
+---
+
+🙌 Author
+
+Shubham Kumar Yadav
+
+GitHub: https://github.com/Shubham-Git-Hub-1Pro
+
+LinkedIn: www.linkedin.com/in/shubham-kumar-yadav-0b2b7029b
