@@ -1,11 +1,51 @@
-# React + Vite
+# 📝 Todo App (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and clean Todo application built using **React**, **Vite**, and **Tailwind CSS**.  
+This app helps users manage their daily tasks efficiently with a smooth and responsive UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+👉 https://YOUR-VERCEL-LINK.vercel.app
 
-The layout of the project is  as follows:
-![Image](https://github.com/user-attachments/assets/72089215-1d6f-42ec-8c4c-9ab16a1b44a1)
+*(Replace this link with your actual deployed URL)*
+
+---
+
+## ✨ Features
+- ➕ Add new todos
+- ✏️ Edit existing todos
+- ❌ Delete todos
+- ✅ Mark todos as completed / pending
+- 🔍 Filter todos (All / Completed / Pending)
+- 🗑️ Clear completed todos
+- 💾 Persistent storage using LocalStorage
+- 📱 Fully responsive design
+
+---
+
+## 🛠️ Tech Stack
+- **React** (with Hooks)
+- **Context API** (state management)
+- **Vite** (fast build tool)
+- **Tailwind CSS** (styling)
+- **LocalStorage** (data persistence)
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/USERNAME/todo-app-react.git
+
+# Navigate to project directory
+cd todo-app-react
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
