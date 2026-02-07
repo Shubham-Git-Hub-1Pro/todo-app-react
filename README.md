@@ -48,3 +48,15 @@ npm install
 
 # Start development server
 npm run dev
+```
+
+---
+
+## © Copyright
+
+© 2026 **Shubham Kumar Yadav**. All rights reserved.
+
+This project is created for **educational and portfolio purposes only**.  
+Unauthorized copying, modification, distribution, or use of this project without explicit permission from the author is strictly prohibited.
+
+📄 License: See the full license here → [LICENSE](./LICENSE)
