@@ -6,7 +6,7 @@ This app helps users manage their daily tasks efficiently with a smooth and resp
 ---
 
 ## 🚀 Live Demo
-👉 https://YOUR-VERCEL-LINK.vercel.app
+👉 https://todo-app-react-ten-phi.vercel.app
 
 *(Replace this link with your actual deployed URL)*
 
