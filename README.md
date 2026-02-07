@@ -8,7 +8,6 @@ This app helps users manage their daily tasks efficiently with a smooth and resp
 ## 🚀 Live Demo
 👉 https://todo-app-react-ten-phi.vercel.app
 
-*(Replace this link with your actual deployed URL)*
 
 ---
 
@@ -49,3 +48,13 @@ npm install
 
 # Start development server
 npm run dev
+
+---
+
+## © Copyright
+
+© 2026 Shubham Kumar Yadav. All rights reserved.
+
+This project is created for learning and portfolio purposes.  
+You are allowed to view and learn from the source code, but **copying, redistributing, or using this project as your own without permission is strictly prohibited**.
+
